@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&theme=radical) 
+  - 🌱 I’m currently learning in YouCode
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinexcv&theme=radical) 
