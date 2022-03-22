@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  - 🌱 I’m currently learning at YouCode
+  - I’m currently a web developer student at YouCode School
+  - I’m currently learning: Web dev, and more ...
+  📈 My Github status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinexcv&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&theme=tokyonight)
