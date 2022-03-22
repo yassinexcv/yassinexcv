@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  - 🌱 I’m currently learning in YouCode
+  - 🌱 I’m currently learning at YouCode
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinexcv&theme=radical) 
