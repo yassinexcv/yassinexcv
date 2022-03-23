@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <img align="right" alt="Coding" width="400" src="https://github.com/yassinexcv">
   - I’m currently a web developer student at YouCode School
   - I’m currently learning: Web dev, and more ...
-  -   📈 My Github status
+  -  📈 My Github status
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassinexcv&theme=radical) 
