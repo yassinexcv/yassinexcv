@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=yassinexcv.yassinexcv)
 [![Github](https://img.shields.io/github/followers/yassinexcv?label=Follow&style=social)](https://github.com/yassinexcv)
+![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
 ## ✉️ Find me on:
 
