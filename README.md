@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <a href="#"><img width="100%" height="auto" src="https://www.thegatewaydigital.com/wp-content/uploads/2020/07/Services_Enterprise-Application-Development_Custom-Software-Engineering.png" height="175px"/></a>
+   <a href="#"><img width="100%" height="auto" src="https://www.thegatewaydigital.com/wp-content/uploads/2020/07/Services_Enterprise-Application-Development_Custom-Software-Engineering.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
@@ -68,13 +68,14 @@ Here are some ideas to get you started:
     <a href="https://github.com/yassinexc/github-readme-stats"><img alt="yassine Github Stats" src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/yassinexcv/github-readme-stats"><img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/yassinexcv/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yassinexcv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
