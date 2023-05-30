@@ -1,63 +1,67 @@
-<!--
-**yassinexcv/yassinexcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Introduction -->
+<h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Yassine.</h1>
+<h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GIF -->
 <p align="center">
     <img src="https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif" alt="full-stack-development" width="600" height="300">
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine</h1>
-<h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
+<!-- About Me -->
+## 🙋‍♂️ About Me
 
-<h4 align="center">🔭 I'm currently working on:</h4>
-<p align="center">Developing innovative and scalable web applications</p>
+- 💻 I’m a **Software Engineer** with expertise in web development.
+- 🌱 I’m currently learning **Data Science** to enhance my skills and explore new possibilities.
+- 👯 I’m looking to collaborate on **Open Source Projects** that make a positive impact.
+- 💬 Ask me about **web development**, **JavaScript frameworks**, and **software engineering**.
+- 📫 You can reach me via email at **Yassinexcv188@gmail.com**.
 
-<h4 align="center">🌱 I'm currently learning:</h4>
-<p align="center">Data Science and exploring the latest trends in technology</p>
+<!-- Fun Fact -->
+## ⚡ Fun Fact
 
-<h4 align="center">👯 I'm looking to collaborate on:</h4>
-<p align="center">Open source projects and exciting software development opportunities</p>
+- Fun fact: **I enjoy playing video games in my free time**.
 
-<h4 align="center">🤔 I'm looking for help with:</h4>
-<p align="center">Cutting-edge technologies and challenging coding problems</p>
-
-<h4 align="center">💬 Ask me about:</h4>
-<p align="center">Web development, JavaScript frameworks, and software engineering best practices</p>
-
-<h4 align="center">📫 How to reach me:</h4>
-<p align="center">
-    Email: Yassinexcv188@gmail.com<br>
-    LinkedIn: [Yassine Touti](https://www.linkedin.com/in/y-touti/)<br>
-    Twitter: [@Yassine10138002](https://twitter.com/Yassine10138002)<br>
-    Instagram: [@yassinexcv188](https://www.instagram.com/yassinexcv188/)
-</p>
-
-<h4 align="center">😄 Pronouns:</h4>
-<p align="center">He/Him</p>
-
-<h4 align="center">⚡ Fun fact:</h4>
-<p align="center">I enjoy playing video games in my free time</p>
-
-<br>
+<!-- Languages and Tools -->
+## 🚀 Languages and Tools
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="yassine Github Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="yassine Top Languages">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48">
+    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux">
+    <!-- Add more icons for Flutter and Dart -->
 </p>
 
-<br>
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
+<p align="center">
+    <img alt="yassine GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+    <img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+</p>
+
+<!-- Connect with Me -->
+## 🤝 Connect with Me
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/y-touti/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"></a>
+    <a href="https://twitter.com/Yassine10138002"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
+    <a href="https://www.instagram.com/yassinexcv188/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
+</p>
+
+<!-- Profile Views and Followers -->
+## ❤ Views and Followers
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=yassinexcv" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/yassinexcv?label=Followers&style=social" alt="GitHub Followers">
+    <a href="https://github.com/yassinexcv?tab=followers"><img src="https://img.shields.io/github/followers/yassinexcv?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
