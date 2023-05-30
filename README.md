@@ -4,7 +4,7 @@
 
 <!-- Futuristic GIF -->
 <p align="center">
-    <img src="https://media.giphy.com/media/l2JhBZ1I3fAwmPrqM/giphy.gif" alt="Futuristic GIF" width="500">
+    <img src="https://media.tenor.com/UJgw1pVA7OsAAAAd/big-bang-national-space-day.gif" alt="Futuristic GIF" width="500">
 </p>
 
 <!-- About Me -->
