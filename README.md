@@ -1,60 +1,95 @@
-<!-- Introduction -->
-<h1 align="center">🚀 Welcome to the Future! I'm Yassine.</h1>
-<h3 align="center">Web & Mobile Developer | Embracing Technological Advancements</h3>
+<!--
+**yassinexcv/yassinexcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- Futuristic GIF -->
-<p align="center">
-    <img src="[https://media.tenor.com/UJgw1pVA7OsAAAAd/big-bang-national-space-day.gif]" alt="Futuristic GIF" width="500">
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+  ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
+
+
+## 🙋‍♂️ About Me
+
+- 💻 I’m a **Software Engineer**
+- 🌱 I’m currently learning **Data Science .**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **Yassinexcv188@gmail.com**
+
+- ⚡ Fun fact **I play games .**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"           alt="php" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="" alt=""> </a>
 </p>
 
-<!-- About Me -->
-## 🌌 About Me
-
-- 🌟 I'm a **Web & Mobile Developer** passionate about creating cutting-edge digital experiences.
-- 👨‍💻 Join me on a journey where we leverage the latest technologies to shape the future of the digital world.
-- 💻 I specialize in developing robust and scalable applications using modern frameworks and tools.
-- 🚀 I'm always eager to learn and stay up-to-date with the latest advancements in web and mobile development.
-- 👯 Let's collaborate on projects that push the boundaries of technology and deliver exceptional user experiences.
-- 📫 Feel free to reach out to me via email at **Yassinexcv188@gmail.com**.
-
-<!-- Futuristic Emojis -->
-## 🚀🌌 Embrace the Future
-
-- Together, let's dive into the realm of infinite possibilities and build the technologies of tomorrow: 🚀🌌
-- We will embrace futuristic concepts and turn them into functional and innovative solutions: 💡🔧
-
-<!-- Languages and Tools -->
-## 🔧 Mastered Tools of the Future
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-    <!-- Add more icons for your preferred tools and technologies -->
+    <a href="https://github.com/yassinexcv/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinexcv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-<!-- GitHub Stats -->
-## 📊 Futuristic Statistics
+## 📊 My Github Stats
 
-<p align="center">
-    <img alt="yassine GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
-    <img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+  <br/>
+    <a href="https://github.com/yassinexc/github-readme-stats"><img alt="yassine Github Stats" src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/yassinexcv/github-readme-stats"><img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
+  
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/y-touti/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Yassine10138002"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/yassinexcv188/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
 </p>
 
-<!-- Connect with Me -->
-## 🌌 Connect with Me
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/y-touti/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"></a>
-    <a href="https://twitter.com/Yassine10138002"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"></a>
-    <a href="https://www.instagram.com/yassinexcv188/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
-</p>
-
-<!-- Futuristic Ending -->
-<p align="center">
-    <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" alt="Futuristic GIF" width="500">
-</p>
-
-Let's shape the future together, one line of code at a time! 🚀🌌
+## ❤ Views and Followers
+<a href="https://github.com/yassinexcv/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=yassinexcv">
+</a>
+<a href="https://github.com/yassinexcv?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
