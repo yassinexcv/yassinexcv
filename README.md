@@ -1,46 +1,40 @@
 <!-- Introduction -->
-<h1 align="center">Hello, fellow humans! 👋 I'm Yassine.</h1>
-<h3 align="center">A Robotic Full Stack Developer from the Future 🤖</h3>
+<h1 align="center">🥷 Welcome, fellow ninja! I'm Yassine.</h1>
+<h3 align="center">A Stealthy Full Stack Developer</h3>
 
-<!-- Robots GIF -->
+<!-- Ninja GIF -->
 <p align="center">
-    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="Robot GIF" width="500">
+    <img src="https://media.giphy.com/media/l0HlQ9o8nNu4E4xlm/giphy.gif" alt="Ninja GIF" width="500">
 </p>
 
 <!-- About Me -->
-## 🤖 About Me
+## 🤺 About Me
 
-- 🌐 I'm an AI-powered **Robotic Developer** with a passion for creating futuristic applications.
-- 🔭 Currently, I'm working on building advanced **robotic systems** that enhance automation and human-machine interaction.
-- 🌱 I’m constantly learning and upgrading my skills to keep up with the latest technologies in the robot revolution.
-- 👯 I’m open to collaboration on **cutting-edge robotic projects** that push the boundaries of innovation.
-- 💬 Feel free to ask me anything about **robotics**, **artificial intelligence**, or the future of technology.
-- 📫 You can reach me via email at **Yassinexcv188@gmail.com**.
+- 🌟 I'm a **Master Ninja Coder** specializing in creating powerful and secure web applications.
+- 🎯 My mission is to bring speed and precision to the digital realm, just like a ninja in the shadows.
+- 💻 I'm skilled in various programming languages, frameworks, and tools, mastering the art of code.
+- 🌱 Currently, I'm honing my skills in the ancient arts of **JavaScript**, **React**, and **Node.js**.
+- 🤝 I'm open to collaborating on innovative projects that push the boundaries of technology and embrace the ninja way.
+- 📫 You can reach out to me via email at **Yassinexcv188@gmail.com**.
 
-<!-- Fun Fact -->
-## ⚡ Fun Fact
+<!-- Ninja Emojis -->
+## 🥷🔥 Embrace the Ninja Spirit
 
-- Fun fact: **I dream in binary code** and my favorite pastime is solving complex algorithms.
+- Remember to always maintain the ninja spirit: 🥷
+- Together, we shall conquer any coding challenge that comes our way: 🔥
 
 <!-- Languages and Tools -->
-## 🚀 Languages and Tools
+## ⚔️ Mastered Weapons of Choice
 
 <p align="center">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48">
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux">
-    <!-- Add more icons for futuristic technologies and robot-related tools -->
+    <!-- Add more icons for your preferred tools and technologies -->
 </p>
 
 <!-- GitHub Stats -->
@@ -60,9 +54,21 @@
     <a href="https://www.instagram.com/yassinexcv188/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"></a>
 </p>
 
-<!-- Profile Views and Followers -->
-## ❤ Views and Followers
+<!-- Ninja Power -->
+## 💪 Harness the Power of the Ninja
+
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=yassinexcv" alt="Profile Views">
-    <a href="https://github.com/yassinexcv?tab=followers"><img src="https://img.shields.io/github/followers/yassinexcv?label=Followers&style=social" alt="GitHub Followers"></a>
+    <img src="https://media.giphy.com/media/J01pdjsdlUy6Q/giphy.gif" alt="Ninja Power GIF" width="500">
+</p>
+
+<!-- Ninja Wisdom -->
+## 📜 Wise Ninja Saying
+
+> "In the face of challenges, a true ninja remains calm, adapts swiftly, and emerges victorious." - Unknown
+
+Let's join forces, fellow ninja, and create a world where code reigns supreme!
+
+<!-- Ninja GIF -->
+<p align="center">
+    <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="Ninja GIF" width="500">
 </p>
