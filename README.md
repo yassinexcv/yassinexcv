@@ -1,5 +1,3 @@
-
-
 <!--
 **yassinexcv/yassinexcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,84 +12,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif" alt="full-stack-development" width="600" height="300">
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
+<h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
 
+<h4 align="center">🔭 I'm currently working on:</h4>
+<p align="center">Developing innovative and scalable web applications</p>
 
-## 🙋‍♂️ About Me
+<h4 align="center">🌱 I'm currently learning:</h4>
+<p align="center">Data Science and exploring the latest trends in technology</p>
 
-- 💻 I’m a **Software Engineer**
-- 🌱 I’m currently learning **Data Science .**
+<h4 align="center">👯 I'm looking to collaborate on:</h4>
+<p align="center">Open source projects and exciting software development opportunities</p>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<h4 align="center">🤔 I'm looking for help with:</h4>
+<p align="center">Cutting-edge technologies and challenging coding problems</p>
 
-- 📫 How to reach me **Yassinexcv188@gmail.com**
+<h4 align="center">💬 Ask me about:</h4>
+<p align="center">Web development, JavaScript frameworks, and software engineering best practices</p>
 
-- ⚡ Fun fact **I play games .**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"           alt="php" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="" alt=""> </a>
+<h4 align="center">📫 How to reach me:</h4>
+<p align="center">
+    Email: Yassinexcv188@gmail.com<br>
+    LinkedIn: [Yassine Touti](https://www.linkedin.com/in/y-touti/)<br>
+    Twitter: [@Yassine10138002](https://twitter.com/Yassine10138002)<br>
+    Instagram: [@yassinexcv188](https://www.instagram.com/yassinexcv188/)
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+<h4 align="center">😄 Pronouns:</h4>
+<p align="center">He/Him</p>
+
+<h4 align="center">⚡ Fun fact:</h4>
+<p align="center">I enjoy playing video games in my free time</p>
+
+<br>
 
 <p align="center">
-    <a href="https://github.com/yassinexcv/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yassinexcv&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="yassine Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="yassine Top Languages">
 </p>
 
-## 📊 My Github Stats
+<br>
 
-  <br/>
-    <a href="https://github.com/yassinexc/github-readme-stats"><img alt="yassine Github Stats" src="https://github-readme-stats.vercel.app/api?username=yassinexcv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/yassinexcv/github-readme-stats"><img alt="yassine Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinexcv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-  
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/y-touti/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Yassine10138002"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/yassinexcv188/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yassinexcv" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/yassinexcv?label=Followers&style=social" alt="GitHub Followers">
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/yassinexcv/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=yassinexcv">
-</a>
-<a href="https://github.com/yassinexcv?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
