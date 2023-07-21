@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me ù
 
 - 💻 I’m a **Software Engineer**
 - 🌱 I’m currently learning **Data Science .**
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left "> 
     <a> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
