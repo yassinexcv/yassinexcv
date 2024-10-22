@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
   ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine</h1>
-## I use code to create things that benefit others 😃
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine </h1>
+ ## I use code to create things that benefit others 😃
 ❤️ Loving JavaScript, [TypeScript][typescript], [Reactjs][react]
 
 👨🏼‍💻 Building Something Cooool
